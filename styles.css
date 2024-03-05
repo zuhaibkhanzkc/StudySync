@@ -583,7 +583,7 @@ body{
     }
 }
 
-/* .footer-container{
+.footer-container{
     background-color: var(--background-color);
     margin: 0 auto;
     padding: 0 2rem;
@@ -699,4 +699,4 @@ ul{
     .footer-grid{
         grid-template-columns: repeat(2,1fr);
     }
-} */
+}
